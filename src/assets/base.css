@@ -1,1 +1,24 @@
 @import "tailwindcss";
+@font-face {
+  font-family: Zoho_Puvi_Regular;
+  src: url('https://static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: Zoho_Puvi_SemiBold;
+  src: url('https://static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Semibold.woff2') format('woff2');
+}
+@font-face {
+  font-family: Zoho_Puvi_Medium;
+  src: url('https://static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Medium.woff2') format('woff2');
+}
+.font-puvi-regular {
+  font-family: Zoho_Puvi_Regular, sans-serif;
+}
+
+.font-puvi-medium {
+  font-family: Zoho_Puvi_Medium, sans-serif;
+}
+
+.font-puvi-semibold {
+  font-family: Zoho_Puvi_SemiBold, sans-serif;
+}
