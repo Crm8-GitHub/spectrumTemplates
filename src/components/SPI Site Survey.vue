@@ -145,7 +145,7 @@
             </tr>
 
             <tr>
-                <td>
+                <td class=" m-0">
                     <table class=" w-full border-collapse">
                         <thead class=" bg-stone-200">
                             <tr>
