@@ -14,7 +14,7 @@
                         </div>
                         <div class=" w-3/10 text-xs font-semibold text-right pr-3">
                             SPECTRUM INTERNATIONAL LLC <br>
-                            <a href="mailto:admin@spectruminternational.ae" class=" text-red-600">admin@spectruminternational.ae</a>
+                            <a href="mailto:admin@spectruminternational.ae" class=" text-[#f71d26]">admin@spectruminternational.ae</a>
                         </div>
                     </div>
                 </td>
@@ -59,7 +59,7 @@
             <tr>
                 <td>
                     <table class=" w-full border-collapse">
-                        <thead>
+                        <thead class=" bg-stone-200">
                             <tr>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-1/20">SN</th>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-7/20 text-left">FIRE ALARM SYSTEM DETAILS</th>
@@ -147,7 +147,7 @@
             <tr>
                 <td>
                     <table class=" w-full border-collapse">
-                        <thead>
+                        <thead class=" bg-stone-200">
                             <tr>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-1/20">SN</th>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-7/20 text-left">EMERGENCY LIGHT SYSTEM DETAILS</th>
@@ -207,7 +207,7 @@
             <tr>
                 <td>
                     <table class=" w-full border-collapse">
-                        <thead>
+                        <thead class=" bg-stone-200">
                             <tr>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-1/20">SN</th>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-7/20 text-left">FIRE FIGHTING SYSTEM DETAILS</th>
@@ -330,7 +330,7 @@
             <tr>
                 <td>
                     <table class=" w-full border-collapse">
-                        <thead>
+                        <thead class=" bg-stone-200">
                             <tr>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-1/20">SN</th>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-7/20 text-left">FIRE PUMP SYSTEM DETAILS</th>
@@ -371,7 +371,7 @@
                     <table class=" w-full border-collapse">
                         <thead>
                             <tr>
-                                <th class=" p-1 text-xs border border-t-0 border-gray-800 text-left">MANPOWER DETAILS</th>
+                                <th class=" p-1 text-xs border border-t-0 border-gray-800 text-left text-[#f71d26] underline">MANPOWER DETAILS</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -384,7 +384,7 @@
             <tr>
                 <td>
                     <table class=" w-full border-collapse">
-                        <thead>
+                        <thead class=" bg-stone-200">
                             <tr>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-1/20">SN</th>
                                 <th class=" p-1 text-xs border border-t-0 border-gray-800 w-7/20 text-left">SYSTEM TYPE</th>
