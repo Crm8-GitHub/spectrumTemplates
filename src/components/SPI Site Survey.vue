@@ -446,7 +446,7 @@
 
 </script>
 
-<style lang="scss" scoped>
+<style>
 td
 {
     align-content: start;
